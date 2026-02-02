@@ -42,7 +42,7 @@ We benchmark **exPreCast** on three different radar datasets: KMA, SEVIR, and Me
 * **SEVIR** – focused on extreme heavy rainfall events, useful for testing model performance under severe conditions.
 * **MeteoNet** – biased towards normal rainfall events, suitable for evaluating performance on typical precipitation patterns.
 
-For instructions on downloading and processing these datasets, please refer to [Github repository](https://github.com/tony890048/Processing-Radar-Datasets).
+For instructions on downloading and processing these datasets, please refer to this [Github repository](https://github.com/tony890048/Processing-Radar-Datasets).
 
 
 ## Training
