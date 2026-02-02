@@ -24,8 +24,7 @@ conda create -n exprecast python=3.10 -y
 conda activate exprecast
 ```
 
-2. Install PyTorch (GPU)
-Install PyTorch with the appropriate CUDA version (e.g., CUDA 12.1):
+2. Install PyTorch (GPU) with the appropriate CUDA version (e.g., CUDA 12.1):
 ```
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 ```
