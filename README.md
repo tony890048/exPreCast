@@ -59,4 +59,9 @@ You can download the pre-trained weights of exPreCast for each dataset through t
 * [SEVIR checkpoint](https://drive.google.com/file/d/1dgeFuW4yHOPV5Il6n3IXzelOWV5iANvG/view?usp=sharing)
 * [MetoeNet checkpoint](https://drive.google.com/file/d/1B7_kNeBhCTCg_7PPow67Nl1ix8xhL1rz/view?usp=sharing)
 
+After downloading, you can load the pretrained weight by calling the function ```load_pretrained``` in the model. For example,
+```
+model = exPreCast()
+model.load_pretrained('pretrained_kma.pth')
+```
 
