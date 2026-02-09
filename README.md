@@ -1,4 +1,8 @@
 # exPreCast
+This repository provides the official implementation of the paper **Extreme Weather Nowcasting via Local Precipitation Pattern Prediction** published at ICLR 2026. Find the paper [here](https://www.arxiv.org/pdf/2602.05204).
+
+
+
 ![model](figures/model.jpg)
 
 ## Introduction
